@@ -1,2 +1,4 @@
 # Joes-Adventure
-Fantasy Game Project
+Embark on an otherworldly odyssey in "Joe's Adventure," a gripping action game set on a distant planet. Battle enemies using an array of weapons, dodging projectiles and engaging in melee combat. Explore the world by interacting with NPCs for vital information, trivia, and items.
+
+Customize Joe with three armor types and swords, enhancing stats and collecting potent potions for progression. Visit the shopkeeper on each level for items or rely on chance drops. While some features like blocking, diverse terrains, and projectiles weren't implemented, "Joe's Adventure" promises intense combat and a captivating world waiting to be discovered. Can Joe conquer the alien planet and unveil its mysteries? The fate of Joe's Adventure is in your hands.

@@ -1,2 +1,2 @@
-# Joe-s-Adventure
+# Joes-Adventure
 Fantasy Game Project
